@@ -342,12 +342,14 @@ Screenshots of the Power BI dashboards are included separately for portfolio pre
 
 The screenshots represent:
 
-Executive Overview
+### Executive Overview
+![Executive Overview](PowerBI/Executive_Overview/Executive_Overview.png)
 
-Shipping Performance
+### Shipping Performance
+![Shipping Performance](PowerBI/Shipping_Performance/Shipping_Performance.png)
 
-Root Cause Drill-Down
-
+### Root Cause Analysis
+![Root Cause Analysis](PowerBI/Root_Cause_Drill_Down/Root_Cause_Drill_Down.png)
 
 
 ---
@@ -381,18 +383,6 @@ The top-customer analysis identifies customers contributing significant revenue,
 7. Sales Distribution Contains High-Value Transactions
 
 The sales distribution shows that most transactions occur at relatively lower sales values, while a smaller number of high-value transactions contribute significantly to overall sales.
-
-
-## Power BI Dashboard
-
-### Executive Overview
-![Executive Overview](PowerBI/Executive_Overview/Executive_Overview.png)
-
-### Shipping Performance
-![Shipping Performance](PowerBI/Shipping_Performance/Shipping_Performance.png)
-
-### Root Cause Analysis
-![Root Cause Analysis](PowerBI/Root_Cause_Drill_Down/Root_Cause_Drill_Down.png)
 
 
 ---
@@ -465,23 +455,23 @@ Business Insights
 Business Recommendations
 
 
----
 
-📁 Repository Structure
+## 📁 Repository Structure
 
-DataCo-Supply-Chain-Analytics/
+```text
+Data-Analytics-Portfolio/
 │
 ├── README.md
 │
 ├── Raw_Sample/
 │   └── DataCo_Sample
-|
+│
 ├── SQL/
 │   └── dataco_supply_chain_analysis.sql
 │
 ├── Data_Cleaning_Python/
-│   └── DataCo_Cleaned_Sample
-|   └── end_to_end_project.py
+│   ├── DataCo_Cleaned_Sample
+│   └── end_to_end_project.py
 │
 ├── Visualizations/
 │   ├── Delivery_Status.png
@@ -491,23 +481,17 @@ DataCo-Supply-Chain-Analytics/
 │
 ├── PowerBI/
 │   ├── DataCo_Supply_Chain.pbix
-│   │
 │   ├── Executive_Overview/
 │   │   └── Executive_Overview.png
-│   │
 │   ├── Shipping_Performance/
 │   │   └── Shipping_Performance.png
-│   │
 │   └── Root_Cause_Drill_Down/
 │       └── Root_Cause_Drill_Down.png
 │
 └── Report/
     └── DataCo_Global_Supply_Chain_Final_Report.pdf
+```
 
-The repository is organized into separate sections for sample data, cleaned sample data, Python analysis, Python-generated visualizations, SQL business analysis, Power BI dashboard files and dashboard pages, and the final project report.
-
-
----
 
 🎓 Project Outcome
 
