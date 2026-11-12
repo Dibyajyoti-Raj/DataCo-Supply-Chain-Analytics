@@ -383,6 +383,18 @@ The top-customer analysis identifies customers contributing significant revenue,
 The sales distribution shows that most transactions occur at relatively lower sales values, while a smaller number of high-value transactions contribute significantly to overall sales.
 
 
+## Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](PowerBI/Executive_Overview/Executive_Overview.png)
+
+### Shipping Performance
+![Shipping Performance](PowerBI/Shipping_Performance/Shipping_Performance.png)
+
+### Root Cause Analysis
+![Root Cause Analysis](PowerBI/Root_Cause_Drill_Down/Root_Cause_Drill_Down.png)
+
+
 ---
 
 💡 Business Recommendations
@@ -457,7 +469,7 @@ Business Recommendations
 
 📁 Repository Structure
 
-Data-Analytics-Portfolio/
+DataCo-Supply-Chain-Analytics/
 │
 ├── README.md
 │
