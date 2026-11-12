@@ -343,13 +343,13 @@ Screenshots of the Power BI dashboards are included separately for portfolio pre
 The screenshots represent:
 
 ### Executive Overview
-![Executive Overview](PowerBI/Executive_Overview/Executive_Overview.jpeg)
+![Executive Overview](Power_BI/Executive_Overview/Executive_Overview.jpeg)
 
 ### Shipping Performance
-![Shipping Performance](PowerBI/Shipping_Performance/Shipping_Performance.jpeg)
+![Shipping Performance](Power_BI/Shipping_Performance/Shipping_Performance.jpeg)
 
 ### Root Cause Analysis
-![Root Cause Analysis](PowerBI/Root_Cause_Drill_Down/Root_Cause_Drill_Down.jpeg)
+![Root Cause Analysis](Power_BI/Root_Cause_Drill_Down/Root_Cause_Drill_Down.jpeg)
 
 
 ---
